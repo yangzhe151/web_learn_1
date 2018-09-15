@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+#test1{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+}
